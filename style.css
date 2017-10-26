@@ -1,0 +1,56 @@
+#gimg {
+	padding-top: 112px;
+        height: 92px;
+        width: 272px;
+        padding-left: 400px;
+      }
+
+nav   {
+        background: #4885ed;
+        width: 100%;
+        margin-top: -10px;
+      }
+nav ul {
+        padding: 0;
+        margin: 0;
+       } 
+nav ul li {
+        display: inline-block;
+        list-style-type: none;
+        margin: 0;
+        padding: 10px 25px;       
+       }    
+nav ul li:hover {
+        background: #3cba54;
+}   
+nav ul li a {
+        color: #f4c20d;
+        text-decoration: none;
+}   
+#search {
+       width: 65%; 
+       height: 30px;
+       margin-left: 180px;
+      } 
+footer   {
+        background: #db3236;
+        width: 100%;
+        margin-top: 140px;
+      }
+footer ul {
+        padding: 0;
+        margin: 0;
+       } 
+footer ul li {
+        display: inline-block;
+        list-style-type: none;
+        margin: 0;
+        padding: 10px 40px;       
+       }    
+footer ul li:hover {
+        background: #f4c20d;
+}   
+footer ul li a {
+        color: #3cba54;
+        text-decoration: none;
+}       
